@@ -1,9 +1,8 @@
-﻿using System;
+﻿using AutomationFramework.Automation;
+using AutomationFramework.Pages;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using JavascriptSamples.Automation;
-using JavascriptSamples.Pages;
 
-namespace JavascriptSamples
+namespace AutomationFramework
 {
     [TestClass]
     public class HomePageTests : AutomationBase

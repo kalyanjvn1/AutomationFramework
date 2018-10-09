@@ -1,8 +1,7 @@
 ﻿using System;
-using OpenQA.Selenium.Remote;
 using OpenQA.Selenium;
 
-namespace JavascriptSamples.Automation
+namespace AutomationFramework.Automation
 {
     internal class FireFoxDriverBuilder: IBrowserCapabilities
     {

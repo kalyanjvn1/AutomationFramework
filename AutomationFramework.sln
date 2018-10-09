@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavascriptSamples", "JavascriptSamples\JavascriptSamples.csproj", "{C12D00D4-17D3-423B-9582-6A85737416CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationFramework", "JavascriptSamples\AutomationFramework.csproj", "{C12D00D4-17D3-423B-9582-6A85737416CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium.Remote;
 using OpenQA.Selenium.Support.Extensions;
 
-namespace JavascriptSamples.Automation
+namespace AutomationFramework.Automation
 {
     public class AutomationBase : WebDriverFactory
     {

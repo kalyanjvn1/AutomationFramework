@@ -1,13 +1,7 @@
-﻿using JavascriptSamples.Automation;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AutomationFramework.Automation;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Support;
 
-namespace JavascriptSamples.Pages
+namespace AutomationFramework.Pages
 {
     public class HomePage : PageObject
     {
